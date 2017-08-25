@@ -1,4 +1,6 @@
+# nativeDLL
 
+Java JNI方式调用c++类库的例子
 其生成方式：1.首先在Java类中声明一个native的方法
 
           2.使用Javah命令生成native方法的声明的
