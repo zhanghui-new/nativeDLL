@@ -1,0 +1,15 @@
+﻿生成启动时间为 8/22/2017 7:13:45 PM。
+     1>项目“D:\documents\visual studio 2013\Projects\nativeDLL\nativeDLL\nativeDLL.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D NATIVEDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+         source.cpp
+     1>d:\documents\visual studio 2013\projects\nativedll\nativedll\source.cpp(16): warning C4715: “FibFun”: 不是所有的控件路径都返回值
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\documents\visual studio 2013\Projects\nativeDLL\Debug\nativeDLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\documents\visual studio 2013\Projects\nativeDLL\Debug\nativeDLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\documents\visual studio 2013\Projects\nativeDLL\Debug\nativeDLL.lib" /MACHINE:X86 /DLL Debug\source.obj
+            正在创建库 D:\documents\visual studio 2013\Projects\nativeDLL\Debug\nativeDLL.lib 和对象 D:\documents\visual studio 2013\Projects\nativeDLL\Debug\nativeDLL.exp
+         nativeDLL.vcxproj -> D:\documents\visual studio 2013\Projects\nativeDLL\Debug\nativeDLL.dll
+     1>已完成生成项目“D:\documents\visual studio 2013\Projects\nativeDLL\nativeDLL\nativeDLL.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.15
