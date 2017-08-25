@@ -1,4 +1,5 @@
 # nativeDLL
+基于native方法实现的dll，供JNI、JNA、CppDemo调用
 
 Java JNI方式调用c++类库的例子
 其生成方式：1.首先在Java类中声明一个native的方法
